@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <jaxb.version>2.2.7</jaxb.version>
+    <jaxb.version>2.1.9</jaxb.version>
   </properties>
 
   <build>
